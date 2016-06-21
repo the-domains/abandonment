@@ -1,0 +1,14 @@
+layout_spectrum: 0.4114528412465006
+typography_spectrum: 0.35623478214256465
+color:
+  brandStrength: 0.9705584452021867
+  lightness: 0.12418891349807382
+  saturation: 0.16076055937446654
+  rhythmicContrast: 0.3808816676028073
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: abandonment
